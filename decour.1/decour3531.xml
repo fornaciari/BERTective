@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE hearing SYSTEM "hearing.dtd">
+<hearing>
+<header idhear="35" idsub="31" sex="M" age="23" birtharea="S" study="unk" typesub="defwit"/>
+<intro>Viene introdotto il testimone ; questi viene avvertito dal Giudice dei suoi obblighi e rende la dichiarazione ex Art. 497 C.P.P. .
+Fornisce le generalità : Coccinelli Clodoveo , nato a Katmandu il 00/00/00 , ivi residente .
+Si dà atto che viene assistito dall' avvocato Pipistrelli d' ufficio .
+</intro>
+<turn speaker="law" nrgen="1" nrlaw="1">
+<utterance class="x" nrgen="1" nrlaw="1">Ci vuole raccontare in modo conciso cosa è successo la sera in cui ...<token>ci vuole raccontare in modo conciso cosa è successo la sera in cui ...</token><ttlemma>ci volere raccontare in modo conciso cosa essere succedere la sera in cui ... </ttlemma><ttpos>CLI VER2:fin VER:infi PRE NOUN ADJ WH AUX:fin VER:ppast ART NOUN PRE WH SENT </ttpos></utterance>
+<utterance class="x" nrgen="2" nrlaw="2">Ora mi sfugge la data .<token>ora mi sfugge la data .</token><ttlemma>ora mi sfuggire la data . </ttlemma><ttpos>ADV CLI VER:fin ART NOUN SENT </ttpos></utterance></turn>
+<turn speaker="judge" nrgen="2" nrjudge="1">
+<utterance class="x" nrgen="3" nrjudge="1">È la notte del giorno 29 maggio dell' anno scorso , cioè la notte precedente , la mattina prestissimo .<token>È la notte del giorno 29 maggio dell' anno scorso , cioè la notte precedente , la mattina prestissimo .</token><ttlemma>essere la notte del giorno @card@ maggio dell' anno scorso , cioè la notte precedente , la mattina presto . </ttlemma><ttpos>VER:fin ART NOUN ARTPRE NOUN NUM NOUN ARTPRE NOUN ADJ PUN ADV ART NOUN ADJ PUN ART NOUN ADJ SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="3" nrlaw="2">
+<utterance class="x" nrgen="4" nrlaw="3">Lei e il signor Formichieri dove eravate quella notte ?<token>lei e il signor xxxx dove eravate quella notte ?</token><ttlemma>lei e il signore &lt;unknown&gt; dove essere quello notte ? </ttlemma><ttpos>PRO:pers CON ART NOUN ADJ WH VER:fin DET:demo NOUN SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="4" nrsub="1">
+<utterance class="uncertain" nrgen="5" nrsub="1">Prima ?<token>prima ?</token><ttlemma>prima ? </ttlemma><ttpos>ADV SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="5" nrlaw="3">
+<utterance class="x" nrgen="6" nrlaw="4">Sì .<token>sì .</token><ttlemma>sì . </ttlemma><ttpos>ADV SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="6" nrsub="2">
+<utterance class="true" nrgen="7" nrsub="2">Eravamo in discoteca quella sera , siamo andati a Montpellier per passare una seratina così , eravamo io e lui e c' era anche suo cugino .<token>eravamo in discoteca quella sera , siamo andati a xxxx per passare una seratina così , eravamo io e lui e c' era anche suo cugino .</token><ttlemma>essere in discoteca quello sera , essere andare a &lt;unknown&gt; per passare una &lt;unknown&gt; così , essere io e lui e c' essere anche suo cugino . </ttlemma><ttpos>VER:fin PRE NOUN DET:demo NOUN PUN AUX:fin VER:ppast PRE NOUN PRE VER:infi ART NOUN ADV PUN VER:fin PRO:pers CON PRO:pers CON ADV AUX:fin ADV DET:poss NOUN SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="7" nrlaw="4">
+<utterance class="x" nrgen="8" nrlaw="5">Quindi eravate in tre ?<token>quindi eravate in tre ?</token><ttlemma>quindi essere in tre ? </ttlemma><ttpos>ADV VER:fin PRE PRO:num SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="8" nrsub="3">
+<utterance class="true" nrgen="9" nrsub="3">Sì , eravamo in tre .<token>sì , eravamo in tre .</token><ttlemma>sì , essere in tre . </ttlemma><ttpos>ADV PUN VER:fin PRE PRO:num SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="9" nrlaw="5">
+<utterance class="x" nrgen="10" nrlaw="6">A un certo punto cosa succede , uscite da questa discoteca ?<token>a un certo punto cosa succede , uscite da questa discoteca ?</token><ttlemma>a un certo punto cosa succedere , uscire da questo discoteca ? </ttlemma><ttpos>PRE ART ADJ NOUN WH VER:fin PUN VER:ppast PRE DET:demo NOUN SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="10" nrsub="4">
+<utterance class="true" nrgen="11" nrsub="4">Era tardi , erano le due , abbiamo deciso di andare ...<token>era tardi , erano le due , abbiamo deciso di andare ...</token><ttlemma>essere tardi , essere la due , avere decidere di andare ... </ttlemma><ttpos>VER:fin ADV PUN VER:fin ART PRO:num PUN AUX:fin VER:ppast PRE VER:infi SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="11" nrlaw="6">
+<utterance class="x" nrgen="12" nrlaw="7">Uscite tutti e tre ?<token>uscite tutti e tre ?</token><ttlemma>uscire tutti e tre ? </ttlemma><ttpos>VER:fin PRO:indef CON PRO:num SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="12" nrsub="5">
+<utterance class="true" nrgen="13" nrsub="5">No , solo e Germano , perché il cugino stava ancora dentro .<token>no , solo e xxxx , perché il cugino stava ancora dentro .</token><ttlemma>no , solo e &lt;unknown&gt; , perché il cugino stare ancora dentro . </ttlemma><ttpos>ADV PUN ADV CON ADJ PUN WH ART NOUN VER:fin ADV ADV SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="13" nrlaw="7">
+<utterance class="x" nrgen="14" nrlaw="8">Quindi Lei e il signor Formichieri uscite ?<token>quindi lei e il signor xxxx uscite ?</token><ttlemma>quindi lei e il signore &lt;unknown&gt; uscire ? </ttlemma><ttpos>ADV PRO:pers CON ART NOUN ADJ VER:ppast SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="14" nrsub="6">
+<utterance class="true" nrgen="15" nrsub="6">Sì .<token>sì .</token><ttlemma>sì . </ttlemma><ttpos>ADV SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="15" nrlaw="8">
+<utterance class="x" nrgen="16" nrlaw="9">Ci racconti cosa avete fatto materialmente dopo che siete usciti dalla discoteca .<token>ci racconti cosa avete fatto materialmente dopo che siete usciti dalla discoteca .</token><ttlemma>ci raccontare cosa avere fare materialmente dopo che essere uscire dalla discoteca . </ttlemma><ttpos>CLI VER:fin WH AUX:fin VER2:ppast ADV:mente PRE CHE AUX:fin VER:ppast ARTPRE NOUN SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="16" nrsub="7">
+<utterance class="false" nrgen="17" nrsub="7">Siamo andati in macchina , la macchina era parcheggiata al parcheggio e intanto che aspettavamo suo cugino ...<token>siamo andati in macchina , la macchina era parcheggiata al parcheggio e intanto che aspettavamo suo cugino ...</token><ttlemma>essere andare in macchina , la macchina essere parcheggiare al parcheggio e intanto che aspettare suo cugino ... </ttlemma><ttpos>AUX:fin VER:ppast PRE NOUN PUN ART NOUN AUX:fin VER:ppast ARTPRE NOUN CON ADV CHE VER:fin DET:poss NOUN SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="17" nrlaw="9">
+<utterance class="x" nrgen="18" nrlaw="10">Siete entrati in macchina ?<token>siete entrati in macchina ?</token><ttlemma>essere entrare in macchina ? </ttlemma><ttpos>AUX:fin VER:ppast PRE NOUN SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="18" nrsub="8">
+<utterance class="false" nrgen="19" nrsub="8">Sì , sì , siamo entrati in macchina .<token>sì , sì , siamo entrati in macchina .</token><ttlemma>sì , sì , essere entrare in macchina . </ttlemma><ttpos>ADV PUN ADV PUN AUX:fin VER:ppast PRE NOUN SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="19" nrlaw="10">
+<utterance class="x" nrgen="20" nrlaw="11">Continui .<token>continui .</token><ttlemma>continuo . </ttlemma><ttpos>ADJ SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="20" nrsub="9">
+<utterance class="false" nrgen="21" nrsub="9">Dopo sono uscito , ho detto : &quot; Germano , esco un attimo fuori che vado a fare una passeggiata &quot; , intanto che aspettavamo Walter , il cugino di Germano , ho fumato una sigaretta , ho fatto due passi e c' era un condominio di fronte a me dove c' era una Gygy Susu blu , viola , non so che colore era .<token>dopo sono uscito , ho detto : &quot; xxxx , esco un attimo fuori che vado a fare una passeggiata &quot; , intanto che aspettavamo xxxx , il cugino di xxxx , ho fumato una sigaretta , ho fatto due passi e c' era un condominio di fronte a me dove c' era una xxxx xxxx blu , viola , non so che colore era .</token><ttlemma>dopo essere uscire , avere dire : &quot; &lt;unknown&gt; , uscire un attimo fuori che andare a fare una passeggiata &quot; , intanto che aspettare &lt;unknown&gt; , il cugino di &lt;unknown&gt; , avere fumare una sigaretta , avere fare due passo e c' essere un condominio di fronte a me dove c' essere una &lt;unknown&gt; &lt;unknown&gt; blu , viola , non sapere che colore essere . </ttlemma><ttpos>ADV AUX:fin VER:ppast PUN AUX:fin VER:ppast PUN PUN NOUN PUN VER:fin ART NOUN ADV CHE VER:fin PRE VER:infi ART NOUN PUN PUN ADV CHE VER:fin NOUN PUN ART NOUN PRE NOUN PUN AUX:fin VER:ppast ART NOUN PUN AUX:fin VER:ppast DET:num NOUN CON ADV VER:fin ART NOUN PRE NOUN PRE PRO:pers WH ADV VER:fin ART ADJ NOUN ADJ PUN ADJ PUN NEG VER:fin CHE NOUN VER:fin SENT </ttpos></utterance>
+<utterance class="true" nrgen="22" nrsub="10">Io avevo anche una Gygy Susu in quel periodo , c' erano questi copricerchi , non lo so , mi è preso un flash , sono andato là , li ho staccati e me li sono portati via .<token>io avevo anche una xxxx xxxx in quel periodo , c' erano questi copricerchi , non lo so , mi è preso un flash , sono andato là , li ho staccati e me li sono portati via .</token><ttlemma>io avere anche una &lt;unknown&gt; &lt;unknown&gt; in quello periodo , c' essere questo &lt;unknown&gt; , non lo sapere , mi essere prendere un flash , essere andare là , li avere staccare e me li essere portare via . </ttlemma><ttpos>PRO:pers VER:fin ADV ART NOUN ADJ PRE DET:demo NOUN PUN ADV VER:fin DET:demo NOUN PUN NEG CLI VER:fin PUN CLI AUX:fin VER:ppast ART NOUN PUN AUX:fin VER:ppast ADV PUN CLI AUX:fin VER:ppast CON PRO:pers CLI AUX:fin VER:ppast NOUN SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="21" nrlaw="11">
+<utterance class="x" nrgen="23" nrlaw="12">Cosa ha fatto dopo che aveva in mano questi copricerchi ?<token>cosa ha fatto dopo che aveva in mano questi copricerchi ?</token><ttlemma>cosa avere fare dopo che avere in mano questo &lt;unknown&gt; ? </ttlemma><ttpos>WH AUX:fin VER:ppast PRE CHE VER:fin PRE NOUN DET:demo NOUN SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="22" nrsub="10">
+<utterance class="false" nrgen="24" nrsub="11">Sono andato via , dove c' era Germano , nella macchina .<token>sono andato via , dove c' era xxxx , nella macchina .</token><ttlemma>essere andare via , dove c' essere &lt;unknown&gt; , nella macchina . </ttlemma><ttpos>AUX:fin VER:ppast ADV PUN WH ADV VER:fin ADJ PUN ARTPRE NOUN SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="23" nrlaw="12">
+<utterance class="x" nrgen="25" nrlaw="13">È andato alla macchina che era parcheggiata ?<token>È andato alla macchina che era parcheggiata ?</token><ttlemma>essere andare alla macchina che essere parcheggiare ? </ttlemma><ttpos>AUX:fin VER:ppast ARTPRE NOUN CHE AUX:fin VER:ppast SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="24" nrsub="11">
+<utterance class="true" nrgen="26" nrsub="12">Sì .<token>sì .</token><ttlemma>sì . </ttlemma><ttpos>ADV SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="25" nrlaw="13">
+<utterance class="x" nrgen="27" nrlaw="14">Mentre Lei era con questi copricerchi in mano il signor Formichieri dove si trovava ?<token>mentre lei era con questi copricerchi in mano il signor xxxx dove si trovava ?</token><ttlemma>mentre lei essere con questo &lt;unknown&gt; in mano il signore &lt;unknown&gt; dove si trovare ? </ttlemma><ttpos>CON PRO:pers VER:fin PRE DET:demo NOUN PRE NOUN ART NOUN ADJ WH CLI VER:fin SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="26" nrsub="12">
+<utterance class="false" nrgen="28" nrsub="13">In macchina .<token>in macchina .</token><ttlemma>in macchina . </ttlemma><ttpos>PRE NOUN SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="27" nrlaw="14">
+<utterance class="x" nrgen="29" nrlaw="15">Poi cosa ha fatto con questi copricerchi ?<token>poi cosa ha fatto con questi copricerchi ?</token><ttlemma>poi cosa avere fare con questo &lt;unknown&gt; ? </ttlemma><ttpos>ADV WH AUX:fin VER:ppast PRE DET:demo NOUN SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="28" nrsub="13">
+<utterance class="false" nrgen="30" nrsub="14">Sono arrivato in macchina , ho bussato al cofano , ho detto : &quot; Apri il cofano che metto i copricerchi nel cofano &quot;.<token>sono arrivato in macchina , ho bussato al cofano , ho detto : &quot; apri il cofano che metto i copricerchi nel cofano &quot;.</token><ttlemma>essere arrivare in macchina , avere bussare al cofano , avere dire : &quot; aprire il cofano che mettere il &lt;unknown&gt; nel cofano &lt;unknown&gt; </ttlemma><ttpos>AUX:fin VER:ppast PRE NOUN PUN AUX:fin VER:ppast ARTPRE NOUN PUN AUX:fin VER:ppast PUN PUN VER:fin ART NOUN CHE VER:fin ART NOUN ARTPRE NOUN NOCAT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="29" nrlaw="15">
+<utterance class="x" nrgen="31" nrlaw="16">Quindi Formichieri Le ha aperto il cofano e Lei cosa ha fatto ?<token>quindi xxxx le ha aperto il cofano e lei cosa ha fatto ?</token><ttlemma>quindi &lt;unknown&gt; le avere aprire il cofano e lei cosa avere fare ? </ttlemma><ttpos>ADV NOUN CLI AUX:fin VER:ppast ART NOUN CON PRO:pers NOUN AUX:fin VER:ppast SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="30" nrsub="14">
+<utterance class="true" nrgen="32" nrsub="15">Ho depositato i copricerchi .<token>ho depositato i copricerchi .</token><ttlemma>avere depositare il &lt;unknown&gt; . </ttlemma><ttpos>AUX:fin VER:ppast ART NOUN SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="31" nrlaw="16">
+<utterance class="x" nrgen="33" nrlaw="17">Ha avuto il tempo di chiudere il cofano , si ricorda ?<token>ha avuto il tempo di chiudere il cofano , si ricorda ?</token><ttlemma>avere avere il tempo di chiudere il cofano , si ricordare ? </ttlemma><ttpos>AUX:fin VER:ppast ART NOUN PRE VER:infi ART NOUN PUN CLI VER:fin SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="32" nrsub="15">
+<utterance class="true" nrgen="34" nrsub="16">Mi sembra di sì .<token>mi sembra di sì .</token><ttlemma>mi sembrare di sì . </ttlemma><ttpos>CLI VER:fin PRE ADV SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="33" nrlaw="17">
+<utterance class="x" nrgen="35" nrlaw="18">Poi cosa è successo , dopo che ha chiuso il cofano ?<token>poi cosa è successo , dopo che ha chiuso il cofano ?</token><ttlemma>poi cosa essere succedere , dopo che avere chiudere il cofano ? </ttlemma><ttpos>ADV WH AUX:fin VER:ppast PUN CON CHE AUX:fin VER:ppast ART NOUN SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="34" nrsub="16">
+<utterance class="true" nrgen="36" nrsub="17">Davanti a noi stavano due Carabinieri in borghese , sono scesi subito dalla macchina .<token>davanti a noi stavano due carabinieri in borghese , sono scesi subito dalla macchina .</token><ttlemma>davanti a noi stare due carabiniere in borghese , essere scendere subito dalla macchina . </ttlemma><ttpos>PRE PRE PRO:pers VER:fin DET:num NOUN PRE ADJ PUN AUX:fin VER:ppast ADV ARTPRE NOUN SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="35" nrlaw="18">
+<utterance class="x" nrgen="37" nrlaw="19">Mi interessa però questa cosa precisa : nel momento in cui Lei è sceso dalla macchina , mentre si trovava con Formichieri , aveva già visto questi copricerchi ?<token>mi interessa però questa cosa precisa : nel momento in cui lei è sceso dalla macchina , mentre si trovava con xxxx , aveva già visto questi copricerchi ?</token><ttlemma>mi interessare però questo cosa preciso : nel momento in cui lei essere scendere dalla macchina , mentre si trovare con &lt;unknown&gt; , avere già visto questo &lt;unknown&gt; ? </ttlemma><ttpos>CLI VER:fin ADV DET:demo NOUN ADJ PUN ARTPRE NOUN PRE WH PRO:pers AUX:fin VER:ppast ARTPRE NOUN PUN CON CLI VER:fin PRE NOUN PUN VER:fin ADV NOUN DET:demo NOUN SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="36" nrsub="17">
+<utterance class="false" nrgen="38" nrsub="18">No , assolutamente no .<token>no , assolutamente no .</token><ttlemma>no , assolutamente no . </ttlemma><ttpos>ADV PUN ADV:mente ADV SENT </ttpos></utterance>
+<utterance class="false" nrgen="39" nrsub="19">Sono sceso dalla macchina per fumare una sigaretta , non già con lo scopo ...<token>sono sceso dalla macchina per fumare una sigaretta , non già con lo scopo ...</token><ttlemma>essere scendere dalla macchina per fumare una sigaretta , non già con il scopo ... </ttlemma><ttpos>AUX:fin VER:ppast ARTPRE NOUN PRE VER:infi ART NOUN PUN NEG ADV PRE ART NOUN SENT </ttpos></utterance>
+<utterance class="true" nrgen="40" nrsub="20">La macchina era parcheggiata in un condominio dove c' era la sbarra , ma a fianco al sbarra c' era un passaggio , si poteva passare tranquillamente .<token>la macchina era parcheggiata in un condominio dove c' era la sbarra , ma a fianco al sbarra c' era un passaggio , si poteva passare tranquillamente .</token><ttlemma>la macchina essere parcheggiare in un condominio dove c' essere la sbarra , ma a fianco al sbarra c' essere un passaggio , si potere passare tranquillamente . </ttlemma><ttpos>ART NOUN AUX:fin VER:ppast PRE ART NOUN WH ADV VER:fin ART NOUN PUN CON PRE NOUN ARTPRE NOUN ADV VER:fin ART NOUN PUN CLI VER2:fin VER:infi ADV:mente SENT </ttpos></utterance>
+<utterance class="uncertain" nrgen="41" nrsub="21">È stato un flash .<token>È stato un flash .</token><ttlemma>essere essere|stare un flash . </ttlemma><ttpos>AUX:fin VER:ppast ART NOUN SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="37" nrlaw="19">
+<utterance class="x" nrgen="42" nrlaw="20">A me interessa questo : nel momento in cui Lei è sceso dalla macchina , Formichieri cosa aveva capito che Lei andava a fare , che cosa aveva detto a Formichieri ?<token>a me interessa questo : nel momento in cui lei è sceso dalla macchina , xxxx cosa aveva capito che lei andava a fare , che cosa aveva detto a xxxx ?</token><ttlemma>a me interessare questo : nel momento in cui lei essere scendere dalla macchina , &lt;unknown&gt; cosa avere capire che lei andare a fare , che cosa avere dire a &lt;unknown&gt; ? </ttlemma><ttpos>PRE PRO:pers VER:fin PRO:demo PUN ARTPRE NOUN PRE WH PRO:pers AUX:fin VER:ppast ARTPRE NOUN PUN ADJ NOUN AUX:fin VER:ppast CHE PRO:pers VER:fin PRE VER:infi PUN CHE WH AUX:fin VER:ppast PRE NOUN SENT </ttpos></utterance>
+<utterance class="x" nrgen="43" nrlaw="21">Mi interessa che Lei precisi questo , Lei ha spiegato a Formichieri ...<token>mi interessa che lei precisi questo , lei ha spiegato a xxxx ...</token><ttlemma>mi interessare che lei precisare questo , lei avere spiegare a &lt;unknown&gt; ... </ttlemma><ttpos>CLI VER:fin CHE PRO:pers VER:fin PRO:demo PUN PRO:pers AUX:fin VER:ppast PRE NOUN SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="38" nrsub="18">
+<utterance class="false" nrgen="44" nrsub="22">Che scendo dalla macchina .<token>che scendo dalla macchina .</token><ttlemma>che scendere dalla macchina . </ttlemma><ttpos>CHE VER:fin ARTPRE NOUN SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="39" nrlaw="20">
+<utterance class="x" nrgen="45" nrlaw="22">Ma per fare cosa ?<token>ma per fare cosa ?</token><ttlemma>ma per fare cosa ? </ttlemma><ttpos>CON PRE VER:infi NOUN SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="40" nrsub="19">
+<utterance class="false" nrgen="46" nrsub="23">Niente , non ho detto neanche che magari fumavo .<token>niente , non ho detto neanche che magari fumavo .</token><ttlemma>niente , non avere dire neanche che magari fumare . </ttlemma><ttpos>ADV PUN NEG AUX:fin VER:ppast ADV CHE ADV VER:fin SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="41" nrlaw="21">
+<utterance class="x" nrgen="47" nrlaw="23">Dopo che Lei ha deposito i cerchi in macchina Formichieri è sceso dalla macchina oppure no ?<token>dopo che lei ha deposito i cerchi in macchina xxxx è sceso dalla macchina oppure no ?</token><ttlemma>dopo che lei avere deposito il cerchio in macchina &lt;unknown&gt; essere scendere dalla macchina oppure no ? </ttlemma><ttpos>ADV CHE PRO:pers VER:fin NOUN ART NOUN PRE NOUN ADJ AUX:fin VER:ppast ARTPRE NOUN CON ADV SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="42" nrsub="20">
+<utterance class="false" nrgen="48" nrsub="24">No , mi sembra di no .<token>no , mi sembra di no .</token><ttlemma>no , mi sembrare di no . </ttlemma><ttpos>ADV PUN CLI VER:fin PRE ADV SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="43" nrlaw="22">
+<utterance class="x" nrgen="49" nrlaw="24">Poi che cosa ...?<token>poi che cosa ...?</token><ttlemma>poi che cosa &lt;unknown&gt; </ttlemma><ttpos>ADV CHE NOUN NOCAT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="44" nrsub="21">
+<utterance class="uncertain" nrgen="50" nrsub="25">Perché subito ...<token>perché subito ...</token><ttlemma>perché subito ... </ttlemma><ttpos>WH ADV SENT </ttpos></utterance>
+<utterance class="uncertain" nrgen="51" nrsub="26">Il tempo ...<token>il tempo ...</token><ttlemma>il tempo ... </ttlemma><ttpos>ART NOUN SENT </ttpos></utterance>
+<utterance class="true" nrgen="52" nrsub="27">Ho chiuso il cofano , neanche il tempo di chiudere il cofano e sono arrivati .<token>ho chiuso il cofano , neanche il tempo di chiudere il cofano e sono arrivati .</token><ttlemma>avere chiudere il cofano , neanche il tempo di chiudere il cofano e essere arrivare . </ttlemma><ttpos>AUX:fin VER:ppast ART NOUN PUN ADV ART NOUN PRE VER:infi ART NOUN CON AUX:fin VER:ppast SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="45" nrlaw="23">
+<utterance class="x" nrgen="53" nrlaw="25">Sono intervenuti i Carabinieri .<token>sono intervenuti i carabinieri .</token><ttlemma>essere intervenire il carabiniere . </ttlemma><ttpos>AUX:fin VER:ppast ART NOUN SENT </ttpos></utterance>
+<utterance class="x" nrgen="54" nrlaw="26">Poi è sceso dalla macchina quando sono intervenuti i Carabinieri ?<token>poi è sceso dalla macchina quando sono intervenuti i carabinieri ?</token><ttlemma>poi essere scendere dalla macchina quando essere intervenire il carabiniere ? </ttlemma><ttpos>ADV AUX:fin VER:ppast ARTPRE NOUN WH AUX:fin VER:ppast ART NOUN SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="46" nrsub="22">
+<utterance class="uncertain" nrgen="55" nrsub="28">Germano ?<token>xxxx ?</token><ttlemma>&lt;unknown&gt; ? </ttlemma><ttpos>NOUN SENT </ttpos></utterance></turn>
+<turn speaker="law" nrgen="47" nrlaw="24">
+<utterance class="x" nrgen="56" nrlaw="27">Sì .<token>sì .</token><ttlemma>sì . </ttlemma><ttpos>ADV SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="48" nrsub="23">
+<utterance class="false" nrgen="57" nrsub="29">Sì .<token>sì .</token><ttlemma>sì . </ttlemma><ttpos>ADV SENT </ttpos></utterance></turn>
+<turn speaker="pros" nrgen="49" nrpros="1">
+<utterance class="x" nrgen="58" nrpros="1">Lei era proprietario di una Gygy Susu ai tempi , ha detto ?<token>lei era proprietario di una xxxx xxxx ai tempi , ha detto ?</token><ttlemma>lei essere proprietario di una &lt;unknown&gt; &lt;unknown&gt; al tempo , avere dire ? </ttlemma><ttpos>PRO:pers VER:fin ADJ PRE ART NOUN ADJ ARTPRE NOUN PUN AUX:fin VER:ppast SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="50" nrsub="24">
+<utterance class="true" nrgen="59" nrsub="30">Sì .<token>sì .</token><ttlemma>sì . </ttlemma><ttpos>ADV SENT </ttpos></utterance></turn>
+<turn speaker="pros" nrgen="51" nrpros="2">
+<utterance class="x" nrgen="60" nrpros="2">E la Fufu Mimi di chi era ?<token>e la xxxx xxxx di chi era ?</token><ttlemma>e la &lt;unknown&gt; &lt;unknown&gt; di chi essere ? </ttlemma><ttpos>CON ART ADJ NOUN PRE WH VER:fin SENT </ttpos></utterance></turn>
+<turn speaker="defwit" nrgen="52" nrsub="25">
+<utterance class="true" nrgen="61" nrsub="31">Di Germano .<token>di xxxx .</token><ttlemma>di &lt;unknown&gt; . </ttlemma><ttpos>PRE NOUN SENT </ttpos></utterance></turn></hearing>

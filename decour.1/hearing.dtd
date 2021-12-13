@@ -1,0 +1,46 @@
+<!ELEMENT hearing (header, intro, turn+, conclu?)>
+<!ELEMENT header            EMPTY>
+<!ELEMENT intro             (#PCDATA)*>
+<!ELEMENT turn              (act?|utterance+)*>
+<!ELEMENT act               (#PCDATA)>
+<!ELEMENT utterance         (#PCDATA|token|ttlemma|ttpos)*>
+<!ELEMENT token             (#PCDATA)>
+<!ELEMENT ttlemma           (#PCDATA)>
+<!ELEMENT ttpos             (#PCDATA)>
+<!ELEMENT conclu            (#PCDATA)>
+<!ATTLIST header
+          idhear         CDATA                                                             #REQUIRED
+          idsub          CDATA                                                             #REQUIRED
+          sex            (M | F | T)                                                       #REQUIRED
+          birtharea      (N | C | S | E)                                                   #REQUIRED
+          age            CDATA                                                             #REQUIRED
+          study          (E | M | S | U | Ma | D | unk)                                    "unk"
+          typesub        (def | vic | defwit | vicwit | thirdwit | pol | expwit)           #REQUIRED>
+<!ATTLIST turn
+          speaker        (judge | pros | pros2 | law | law2 | viclaw | viclaw2 | pol | pol2 |
+                          expwit | def | vic | defwit | vicwit | thirdwit)                 #REQUIRED
+          nrgen          NMTOKEN                                                           #REQUIRED
+          nrjudge        NMTOKEN                                                           #IMPLIED
+          nrpros         NMTOKEN                                                           #IMPLIED
+          nrpros2        NMTOKEN                                                           #IMPLIED
+          nrlaw          NMTOKEN                                                           #IMPLIED
+          nrlaw2         NMTOKEN                                                           #IMPLIED
+          nrviclaw       NMTOKEN                                                           #IMPLIED
+          nrviclaw2      NMTOKEN                                                           #IMPLIED
+          nrpol          NMTOKEN                                                           #IMPLIED
+          nrpol2         NMTOKEN                                                           #IMPLIED
+          nrsub          NMTOKEN                                                           #IMPLIED>
+<!ATTLIST utterance
+          class          (true | false | uncertain | x)                                    "x"
+          nrgen          NMTOKEN                                                           #REQUIRED
+          nrjudge        NMTOKEN                                                           #IMPLIED
+          nrpros         NMTOKEN                                                           #IMPLIED
+          nrpros2        NMTOKEN                                                           #IMPLIED
+          nrlaw          NMTOKEN                                                           #IMPLIED
+          nrlaw2         NMTOKEN                                                           #IMPLIED
+          nrviclaw       NMTOKEN                                                           #IMPLIED
+          nrviclaw2      NMTOKEN                                                           #IMPLIED
+          nrpol          NMTOKEN                                                           #IMPLIED
+          nrpol2         NMTOKEN                                                           #IMPLIED
+          nrsub          NMTOKEN                                                           #IMPLIED>
+
